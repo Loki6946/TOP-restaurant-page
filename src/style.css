@@ -51,7 +51,7 @@
 
   /* Typography */
   --font-primary: "Inter", sans-serif;
-  --font-secondary: "Dangrek", "sans-serif";
+  --font-secondary: "Dangrek", Arial, Helvetica, sans-serif;
 
   --font-weight-regular: 400;
   --font-weight-medium: 500;
